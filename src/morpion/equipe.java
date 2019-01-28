@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 public class equipe {
 
-	private String nom_equipe;
+	public String nom_equipe;
 	private int nb_membre = 0;
 	private ArrayList<String> membres = new ArrayList<String>();
 

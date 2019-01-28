@@ -7,4 +7,5 @@ public class Case {
 		
 		return crx.getEquipe();
 	}
+	
 }
